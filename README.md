@@ -15,13 +15,15 @@ This portfolio was created to show my projects in this field. Also here are my a
 
 
 ## Portfolio projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+<img align="left" width="250" height="150" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
 
 
 
 
+## Certificates and courses📜
 
-Certificates and courses📜
-======================
 I am sure that the best way to show your skills is by doing practical exercises, however courses plays also such an important role. So here is the list of them, that I've finished recently.
 
 * [Interactive SQL Trainer](https://stepik.org/cert/1959546) (2022) (Stepik)
