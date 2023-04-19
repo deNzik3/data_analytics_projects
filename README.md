@@ -17,7 +17,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 ## Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-<img align="left" width="250" height="250" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
+<img align="left" width="250" height="200" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
 
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 
