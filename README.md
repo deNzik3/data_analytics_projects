@@ -10,7 +10,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-- [Certificates and courses](#certificates and courses)
+- [Certificates and courses](#certificates)
 
 
 
