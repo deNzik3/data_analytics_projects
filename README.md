@@ -20,6 +20,8 @@ In this section I will list data analytics projects briefly describing the techn
 <img align="left" width="250" height="150" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
 
 **Description:** The dataset contains 4803 records of films. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis) and creating a recommendation system in the end.
+
+
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Python, Pandas, Numpy, Plotly, Matplotlib, Scikit-learn .  
 **Results:** I built a recommendation system and explore dataset where I foud out some insights.  
