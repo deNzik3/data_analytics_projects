@@ -33,7 +33,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 <img align="left" width="250" height="170" src="http://www.bscorecard.net/wp-content/uploads/2018/04/grafico-sales-up-cover-article.png"> **[Sales Analysis](https://github.com/deNzik3/data_analytics_projects/blob/main/sales_EDA%2Bvisualization%2BSQL.ipynb)**
 
-**Skills:** data cleaning, data analysis, statistics, data visualization.  
+**Skills:** data cleaning, EDA, statistics, data visualization.  
 
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
