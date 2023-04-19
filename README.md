@@ -19,7 +19,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 <img align="left" width="250" height="170" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
 
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Skills:** data cleaning, data analysis, statistics, data visualization, machine learning, scraping 
 
 
 **Technology:** Python, Pandas, Numpy, Plotly, Matplotlib, Scikit-learn.
@@ -31,6 +31,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 #
 
+<img align="left" width="250" height="170" src="http://www.bscorecard.net/wp-content/uploads/2018/04/grafico-sales-up-cover-article.png"> **[Sales Analysis](https://github.com/deNzik3/data_analytics_projects/blob/main/sales_EDA%2Bvisualization%2BSQL.ipynb)**
+
+**Skills:** data cleaning, data analysis, statistics, data visualization.  
+
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+
+
+**Results:** You can display some insiders, for example, when is the best time to sell a product
 
 
 
