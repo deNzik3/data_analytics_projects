@@ -17,7 +17,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 ## Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-<img align="left" width="350" height="150" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
+<img align="left" width="350" height="450" src="https://cdnstatic.rg.ru/uploads/images/157/11/13/900.jpg"> **[Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb)**
 
 **Description:** The dataset contains 4803 records of films. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis) and creating a recommendation system in the end.
 
