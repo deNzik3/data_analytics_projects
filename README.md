@@ -55,6 +55,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
+## Challenges
+* [SQL challeges](https://github.com/deNzik3/SQL) This repository contains codes of online SQL challenges
+
+
+
+
 
 ## Core Competencies
 - **Methodologies:** Machine Learning, Statistics, EDA, visualizations, A/B Testing, Big Data Analytics
