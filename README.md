@@ -10,6 +10,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
+- [Micro Projects](#micro-projects)
 - [Certificates and courses](#certificates-and-courses)
 
 
@@ -31,6 +32,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 #
 
+
 <img align="left" width="250" height="170" src="http://www.bscorecard.net/wp-content/uploads/2018/04/grafico-sales-up-cover-article.png"> **[Sales Analysis](https://github.com/deNzik3/data_analytics_projects/blob/main/sales_EDA%2Bvisualization%2BSQL.ipynb)**
 
 **Skills:** data cleaning, EDA, statistics, data visualization.  
@@ -48,7 +50,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
+# Micro Projects
 
 
 
@@ -75,3 +77,4 @@ I am sure that the best way to show your skills is by doing practical exercises,
 * [SQL for everyone](https://stepik.org/cert/1574139) (2022) (Stepik)
 * [SQL for Data Analysis](https://disk.yandex.ru/i/AX2bJUKksYDbDg) (2023) (Udacity)
 * [ML course for beginners](https://disk.yandex.ru/i/Sv_3XgOED6D1Ig) (2023) (Stepik)
+
