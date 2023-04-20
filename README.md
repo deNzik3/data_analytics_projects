@@ -11,7 +11,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 - [Micro Projects](#micro-projects)
-      + [Challenges](#challengesf)
+	+ [Challenges](#challengesf)
 - [Core Competencies](#core-competencies)
 - [Certificates and courses](#certificates-and-courses)
 
