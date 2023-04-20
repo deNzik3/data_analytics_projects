@@ -85,7 +85,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-## Certificates and courses📜
+## Certificates and courses
 
 I am sure that the best way to show your skills is by doing practical exercises, however courses plays also such an important role. So here is the list of them, that I've finished recently.
 
