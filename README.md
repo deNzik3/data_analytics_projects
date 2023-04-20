@@ -56,7 +56,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Challenges
-* [SQL challeges](https://github.com/deNzik3/SQL) This repository contains codes of online SQL challenges
+* [SQL challenges](https://github.com/deNzik3/SQL) This repository contains codes of online SQL challenges
+* [Data Science challenges](https://github.com/deNzik3/Data-Science)This repository contains codes of online Data Science challenges
 
 
 
