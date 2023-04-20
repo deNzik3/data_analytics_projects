@@ -11,6 +11,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 - [Micro Projects](#micro-projects)
+- [Core Competencies](#core-competencies)
 - [Certificates and courses](#certificates-and-courses)
 
 
@@ -56,9 +57,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Core Competencies
-- **Methodologies:** Machine Learning, Statistics, Explainable AI, A/B Testing, Big Data Analytics
-- **Languages:** Python (Pandas, Numpy; Scikit-Learn; Seaborn, Plotly, Matplotlib; PandaSQL,PySparkSQL), SQL, Power Query
-- **Tools:** PostgreSQL, Git, PySpark, MS Excel, Power BI
+- **Methodologies:** Machine Learning, Statistics, EDA, visualizations, A/B Testing, Big Data Analytics
+- **Languages:** Python (Pandas, Numpy; Scikit-Learn; Seaborn, Plotly, Matplotlib; PandaSQL,PySparkSQL), SQL(PostgreSQL), Power Query
+- **Tools:** Git, PySpark, MS Excel, Power BI
 
 
 
