@@ -11,6 +11,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 - [Micro Projects](#micro-projects)
+      + [Challenges](#challengesf)
 - [Core Competencies](#core-competencies)
 - [Certificates and courses](#certificates-and-courses)
 
@@ -55,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-## Challenges
+### Challenges
 * [SQL challenges](https://github.com/deNzik3/SQL): This repository contains codes of online SQL challenges
 * [Data Science challenges](https://github.com/deNzik3/Data-Science): This repository contains codes of online Data Science challenges
 
