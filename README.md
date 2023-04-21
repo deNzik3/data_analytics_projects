@@ -35,16 +35,15 @@ In this section I will list data analytics projects briefly describing the techn
 #
 
 
-<img align="left" width="250" height="170" src="http://www.bscorecard.net/wp-content/uploads/2018/04/grafico-sales-up-cover-article.png"> **[Sales Analysis](https://github.com/deNzik3/data_analytics_projects/blob/main/sales_EDA%2Bvisualization%2BSQL.ipynb)**
+<img align="left" width="250" height="170" src="https://avatars.mds.yandex.net/i?id=19f89d29d3a0c0727a8d81b344cecfb6fcef2330-8497209-images-thumbs&n=13"> **[Predicting the number of Olympic medals](https://github.com/deNzik3/data_analytics_projects/blob/main/sales_EDA%2Bvisualization%2BSQL.ipynb)**
 
-**Skills:** data cleaning, EDA, statistics, data visualization.  
-
-
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib
+**Skills:** data cleaning, EDA, statistics, data visualization, Linear Regression, Model evaluation 
 
 
-**Results:** You can display some insiders, for example, when is the best time to sell a product
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib,Scikit-learn
 
+
+**Results:** Now I can predict how many medals a country can get at the Olympics
 
 
 ##
