@@ -22,13 +22,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 <img align="left" width="250" height="170" src="https://backpackerpanda.com/wp-content/uploads/2022/06/1551969983_42850.jpg"> **[Weather predictions](https://github.com/deNzik3/data_analytics_projects/blob/main/weather_predictions.ipynb)**
 
-**Skills:** data cleaning, data analysis, statistics, data visualization, machine learning, scraping 
+**Skills:** data cleaning, data analysis, statistics, data visualization, machine learning
 
 
 **Technology:** Python, Pandas, Numpy, Plotly, Matplotlib, Scikit-learn.
 
 
-**Results:** I built a recommendation system and explore dataset where I foud out some insights.  
+**Results:** Here I built a function that might predict weather  
 
 
 
