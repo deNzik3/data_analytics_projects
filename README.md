@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 #
 
 
-<img align="left" width="250" height="170" src="https://www.stirworld.com/images/see/215_Tokyo2020MedalDesign_1.jpg?37"> **[Predicting the number of Olympic medals](https://github.com/deNzik3/data_analytics_projects/blob/main/sales_EDA%2Bvisualization%2BSQL.ipynb)**
+<img align="left" width="250" height="170" src="https://www.stirworld.com/images/see/215_Tokyo2020MedalDesign_1.jpg?37"> **[Predicting the number of Olympic medals](https://github.com/deNzik3/data_analytics_projects/blob/main/olympic_pred.ipynb)**
 
 **Skills:** data cleaning, EDA, statistics,machine learning, data visualization, linear regression, model evaluation 
 
