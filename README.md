@@ -66,7 +66,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## Micro Projects
 
 ### Recommendation systems
-* [Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb) Created a model that recommends a movie by its title. Collaborative filtering
+* [Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb): Created a model that recommends a movie by its title. Collaborative filtering
 
 
 ### Challenges
