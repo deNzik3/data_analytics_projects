@@ -46,9 +46,20 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Now I can predict how many medals a country can get at the Olympics
 
 
-##
+#
+
+<img align="left" width="250" height="170" src="https://i.pinimg.com/originals/4d/9d/db/4d9ddb10038ca5ac58aaeae58dbc883b.jpg"> **[Laptop prices prediction](https://github.com/deNzik3/data_analytics_projects/blob/main/olympic_pred.ipynb)**
+
+**Skills:** data cleaning, EDA, statistics,machine learning, data visualization, linear regression, rigde regression, lasso regression, KNN, decision tree
 
 
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib,Scikit-learn
+
+
+**Results:** Here I tried to find patterns in price formation and build a model, now we can predict the price of a laptop by its components
+
+
+#
 
 
 ## Micro Projects
