@@ -108,5 +108,6 @@ I am sure that the best way to show your skills is by doing practical exercises,
 * [SQL for Data Analysis](https://disk.yandex.ru/i/AX2bJUKksYDbDg) (2023) (Udacity)
 * [ML course for beginners](https://disk.yandex.ru/i/Sv_3XgOED6D1Ig) (2023) (Stepik)
 * [A/B testing](https://learn.udacity.com/courses/ud257) (2023) (Udacity)
-* [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills?action=enroll&courseSlug=datasciencemathskills&showOnboardingModal=check#modules) (2023) (coursera)
-* []()
+* [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills?action=enroll&courseSlug=datasciencemathskills&showOnboardingModal=check#modules) (2023) (Coursera)
+* [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) (2023) (Kaggle)
+* [Data Cleaning](https://www.kaggle.com/learn/certification/denzik228/data-cleaning) (2023) (Kaggle)
