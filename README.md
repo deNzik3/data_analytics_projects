@@ -7,7 +7,7 @@ Hello! My name is Denis and perhaps as you already know I am a 2nd year student 
 
 
 
-##
+
 This portfolio was created to show my projects in this field. Also here are my achievements, certificates and it is a way to track my progress in Data Analytics and Data Science-related topics. This portfolio is updated on a regular basis.
 ##
 
