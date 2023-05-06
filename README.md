@@ -1,7 +1,11 @@
 # Data Analyst Portfolio - Denis Ivanov
 
 ## About
-My name is Denis and perhaps as you already know I am a 2nd year student at National Research Nuclear University MEPhI with a degree in Economics. My main programming languages are **Python** and **SQL**, in which I am good at libraries for data analysis and visualization, and with the help of python I can write SQL code using libraries PandaSQL or PySparkSQL. 
+My main programming languages are **Python** and **SQL**. 
+
+## Education
+National Research Nuclear University MEPhI **2021-2026**
+IFTEB, Economics Security
 
 
 
