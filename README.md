@@ -1,17 +1,14 @@
 # Data Analyst Portfolio - Denis Ivanov
 
 ## About
-My main programming languages are **Python** and **SQL**. 
+I started doing analytics two years ago, as it has always been very interesting to work with numbers. Quickly mastered at a good level libraries for data analysis and visualization, as well as for ML. Also was a team leader at a Hackathon from the university. Together with the university team, I conducted marketing research, where I was engaged in visualization.
+
 
 ## Education
 National Research Nuclear University MEPhI **2021-2026**
 IFTEB, Economics Security
 
 
-
-
-
-#
 This portfolio was created to show my projects in this field. Also here are my achievements, certificates and it is a way to track my progress in Data Analytics and Data Science-related topics. This portfolio is updated on a regular basis.
 
 
