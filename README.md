@@ -26,7 +26,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 ## Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-<img align="left" width="250" height="170" src="https://backpackerpanda.com/wp-content/uploads/2022/06/1551969983_42850.jpg"> **[Weather predictions](https://github.com/deNzik3/data_analytics_projects/blob/main/weather_predictions.ipynb)**
+<img align="left" width="250" height="170" src="https://backpackerpanda.com/wp-content/uploads/2022/06/1551969983_42850.jpg"> **[Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project)**
 
 **Skills:** data cleaning, data analysis, statistics, data visualization, machine learning
 
@@ -41,7 +41,7 @@ In this section I will list data analytics projects briefly describing the techn
 #
 
 
-<img align="left" width="250" height="170" src="https://www.stirworld.com/images/see/215_Tokyo2020MedalDesign_1.jpg?37"> **[Predicting the number of Olympic medals](https://github.com/deNzik3/data_analytics_projects/blob/main/olympic_pred.ipynb)**
+<img align="left" width="250" height="170" src="https://www.stirworld.com/images/see/215_Tokyo2020MedalDesign_1.jpg?37"> **[Predicting the number of Olympic medals](https://github.com/densivanov/data_analytics_projects/tree/main/olympic_pred_project)**
 
 **Skills:** data cleaning, EDA, statistics,machine learning, data visualization, linear regression, model evaluation 
 
@@ -54,7 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 #
 
-<img align="left" width="250" height="170" src="https://i.pinimg.com/originals/4d/9d/db/4d9ddb10038ca5ac58aaeae58dbc883b.jpg"> **[Laptop prices prediction](https://github.com/deNzik3/data_analytics_projects/blob/main/laptop_prediction.ipynb)**
+<img align="left" width="250" height="170" src="https://i.pinimg.com/originals/4d/9d/db/4d9ddb10038ca5ac58aaeae58dbc883b.jpg"> **[Laptop prices prediction](https://github.com/densivanov/data_analytics_projects/tree/main/laptop_prediction_project)**
 
 **Skills:** data cleaning, EDA, statistics, machine learning, data visualization, linear regression, rigde regression, lasso regression, KNN, decision tree
 
@@ -71,7 +71,7 @@ In this section I will list data analytics projects briefly describing the techn
 ## Micro Projects
 
 ### Recommendation systems
-* [Movie recommendation system](https://github.com/deNzik3/data_analytics_projects/blob/main/movie_rec.ipynb): Created a model that recommends a movie by its title. Collaborative filtering
+* [Movie recommendation system](https://github.com/densivanov/data_analytics_projects/tree/main/movie_rec_project): Created a model that recommends a movie by its title. Collaborative filtering
 
 
 ### Challenges
