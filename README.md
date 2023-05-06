@@ -4,7 +4,7 @@
 I started doing analytics two years ago, as it has always been very interesting to work with numbers. Quickly mastered at a good level libraries for data analysis and visualization, as well as for ML. Also was a team leader at a Hackathon from the university. Together with the university team, I conducted marketing research, where I was engaged in visualization. Was engaged in the development of a recommendation system for films. Also, based on the data obtained, I performed binary analysis, created ML models.
 
 ## Education
-- **2021-2026 National Research Nuclear University MEPhI, Moscow - IFTEB, Economics Security**
+- **2021-2026 National Research Nuclear University MEPhI, Moscow - IFTEB, Economics Security, Expert**
 
 
 
