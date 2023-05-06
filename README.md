@@ -6,6 +6,7 @@ I started doing analytics two years ago, as it has always been very interesting 
 
 ## Education
 National Research Nuclear University MEPhI **2021-2026**
+
 IFTEB, Economics Security
 
 
