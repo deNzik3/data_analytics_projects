@@ -16,3 +16,10 @@
 
 You can find the code for this project [here](https://github.com/densivanov/data_analytics_projects/blob/main/weather_pred_project/weather_predictions.ipynb)
 
+## Skils 
+
+- EDA
+- Data Visualization
+- Machine Learning Model
+- Feature Engineering
+- Data Preparing
