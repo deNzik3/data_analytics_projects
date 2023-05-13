@@ -1,4 +1,4 @@
-# Weather prediction Machine Learning project
+# Weather prediction ML project
 
 ## Project Overview
 
