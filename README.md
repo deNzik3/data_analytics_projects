@@ -118,4 +118,4 @@ I am sure that the best way to show your skills is by doing practical exercises,
 * [Data Cleaning](https://www.kaggle.com/learn/certification/denzik228/data-cleaning) (2023) (Kaggle)
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (2023) (Kaggle)
 * [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) (2023) (Kaggle)
-* [SQL Test By HackerRank](https://www.hackerrank.com/certificates/af00dab731a6) (2023) (HackerRank)
+* [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/5bdb9499cdc6) (2023) (HackerRank)
