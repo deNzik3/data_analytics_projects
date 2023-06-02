@@ -5,7 +5,7 @@
 
 ## Project organization
 ```
-.
+
 ├── uber_model.png                      : ERD data model diagram
 ├── uber_data.csv                       : Dataset with initial information
 ├── uber_EDA.ipynb                      : Data Analysis to understand dataset
