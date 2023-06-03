@@ -7,7 +7,7 @@
 
 
 ## Introduction
-[link](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) <- link to the information page
+[taxi](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) <- link to the information web page
 
 I will analyze the data, build a database model, and make a conclusion based on the data obtained. I will also create a visual dashboard in Power BI. I will go through all the stages of data analysis.
 
@@ -26,6 +26,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 ├── taxi_EDA.ipynb                      : Data Analysis to understand dataset
 ├── taxi_database_building.ipynb        : Building a model and dividing a dataset into tables
 ├── BigQuery_analysis_PySparkSQL.ipynb  : Data Analysis using PySparkSQL
+├── LICENSE                             : License
 └── README.md                           : Report
 ```
 
