@@ -34,6 +34,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 * Data Analysis
 * Data Cleaning
 * Data Model Building
+* Data Engineering
 * BigQuery
 * Building a Machine Learning model
 * Python
