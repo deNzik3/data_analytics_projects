@@ -23,7 +23,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 ├── data_documentation.pdf              : Documentation for the dataset
 ├── taxi_model.png                      : ERD data model diagram
 ├── taxi_data.csv                       : Dataset with initial information
-├── taxi_EDA.ipynb                      : Data Analysis to understand dataset
+├── taxi_EDA.ipynb                      : Quick Data Analysis to understand the dataset
 ├── taxi_database_building.ipynb        : Building a model and dividing a dataset into tables
 ├── BigQuery_analysis_PySparkSQL.ipynb  : Data Analysis using PySparkSQL
 ├── LICENSE                             : License
