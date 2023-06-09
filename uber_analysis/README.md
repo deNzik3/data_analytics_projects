@@ -23,9 +23,10 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 ├── data                                : Folder with the datasets I used
       └── README.md
       └── taxi+_zone_lookup.csv
+├── linear_regression_model.pkl         : Linear Regression model
 ├── data_documentation.pdf              : Documentation for the dataset
 ├── taxi_model.png                      : ERD data model diagram
-├── ML_building_taxi.ipynb              : Simpe linear model for predicting a total amount
+├── ML_building_taxi.ipynb              : The way to create an ML model
 ├── taxi_EDA.ipynb                      : Quick Data Analysis to understand the dataset
 ├── taxi_database_building.ipynb        : Building a model and dividing a dataset into tables
 ├── BigQuery_analysis_PySparkSQL.ipynb  : Data Analysis using PySparkSQL
