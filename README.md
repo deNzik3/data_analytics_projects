@@ -121,5 +121,4 @@ I am sure that the best way to show your skills is by doing practical exercises,
 * [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/5bdb9499cdc6) (2023) (HackerRank)
 
 
-**smth to add*
 
