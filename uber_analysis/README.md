@@ -20,9 +20,11 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 ## Project organization
 ```
+├── data                                : Folder with the datasets I used
+      └── README.md
+      └── taxi+_zone_lookup.csv
 ├── data_documentation.pdf              : Documentation for the dataset
 ├── taxi_model.png                      : ERD data model diagram
-├── taxi_data.csv                       : Dataset with initial information
 ├── ML_building_taxi.ipynb              : Simpe linear model for predicting a total amount
 ├── taxi_EDA.ipynb                      : Quick Data Analysis to understand the dataset
 ├── taxi_database_building.ipynb        : Building a model and dividing a dataset into tables
