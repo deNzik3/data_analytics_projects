@@ -43,5 +43,4 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 * BigQuery
 * Building a Machine Learning model
 * Python
-* ML
 * PySparkSQL
