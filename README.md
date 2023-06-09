@@ -119,3 +119,7 @@ I am sure that the best way to show your skills is by doing practical exercises,
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (2023) (Kaggle)
 * [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) (2023) (Kaggle)
 * [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/5bdb9499cdc6) (2023) (HackerRank)
+
+
+**smth to add*
+
