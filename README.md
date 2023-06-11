@@ -27,7 +27,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 
-<img align="left" width="250" height="170" src="https://c.wallhere.com/photos/6d/c5/taxi_New_York_City_traffic_vehicle_selective_coloring_cityscape_car-1160857.jpg"> **[Taxi analysis](https://github.com/densivanov/data_analytics_projects/tree/main/taxi_analysis)**
+<img align="left" width="250" height="170" src="https://static01.nyt.com/images/2019/06/13/nyregion/13nytaxi1-print/merlin_151173624_b903ed5f-943f-46aa-9da0-4111cfa8fafd-superJumbo.jpg?quality=75&auto=webp"> **[Taxi analysis](https://github.com/densivanov/data_analytics_projects/tree/main/taxi_analysis)**
 
 **Skills:** data cleaning, data engineering, data analysis, statistics, data visualization, machine learning, git
 
@@ -35,35 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn.
 
 
-**Results:** Conducted a full analysis of the taxi operation, built an ML model, and also made the final report
-
-
-
-
-<img align="left" width="250" height="170" src="https://backpackerpanda.com/wp-content/uploads/2022/06/1551969983_42850.jpg"> **[Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project)**
-
-**Skills:** data cleaning, data analysis, statistics, data visualization, machine learning
-
-
-**Technology:** Python, Pandas, Numpy, Plotly, Matplotlib, Scikit-learn.
-
-
-**Results:** Here I built a function that might predict weather  
-
-
-
-#
-
-
-<img align="left" width="250" height="170" src="https://www.stirworld.com/images/see/215_Tokyo2020MedalDesign_1.jpg?37"> **[Predicting the number of Olympic medals](https://github.com/densivanov/data_analytics_projects/tree/main/olympic_pred_project)**
-
-**Skills:** data cleaning, EDA, statistics,machine learning, data visualization, linear regression, model evaluation 
-
-
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib,Scikit-learn
-
-
-**Results:** Now I can predict how many medals a country can get at the Olympics
+**Results:** Did a full analysis of the taxi operation, built an ML model, and also made the final report
 
 
 #
@@ -73,10 +45,10 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, EDA, statistics, machine learning, data visualization, linear regression, rigde regression, lasso regression, KNN, decision tree
 
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib,Scikit-learn
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn
 
 
-**Results:** Here I tried to find patterns in price formation and build a model, now we can predict the price of a laptop by its components
+**Results:** Based on a large amount of data, I made an EDA, built an ML model and created a visualization of the use of the model
 
 
 #
@@ -87,6 +59,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### Recommendation systems
 * [Movie recommendation system](https://github.com/densivanov/data_analytics_projects/tree/main/movie_rec_project): Created a model that recommends a movie by its title. Collaborative filtering
 
+### ML projects
+* [Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project): I made EDA, and also built an ML model for predicting temperature based on data
+* [Predicting the number of Olympic medals](https://github.com/densivanov/data_analytics_projects/tree/main/olympic_pred_project): Thanks to this project, we can now, based on data from previous years, roughly predict the number of medals received at the Olympic Games
 
 ### Challenges
 * [SQL challenges](https://github.com/deNzik3/SQL): This repository contains codes of online SQL challenges
