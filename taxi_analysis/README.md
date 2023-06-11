@@ -36,11 +36,11 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 
 ## Skills and technologies
+* Python
+* SQL
+* PySparkSQL
 * Data Analysis
-* Data Cleaning
 * Data Model Building
 * Data Engineering
 * BigQuery
 * Building a Machine Learning model
-* Python
-* PySparkSQL
