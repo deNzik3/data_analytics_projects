@@ -23,15 +23,16 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 ├── data                                : Folder with the datasets I used
       └── README.md
       └── taxi+_zone_lookup.csv
-├── linear_regression_model.pkl         : Linear Regression model
-├── data_documentation.pdf              : Documentation for the dataset
-├── taxi_model.png                      : ERD data model diagram
+├── LICENSE                             : MIT License        
+├── BigQuery_analysis_PySparkSQL.ipynb  : Data Analysis using PySparkSQL
 ├── ML_building_taxi.ipynb              : The way to create an ML model
+├── README.md                           : Project description
+├── data_documentation.pdf              : Documentation for the dataset
+├── linear_regression_model.pkl         : Linear Regression model
+├── taxi_model.png                      : ERD data model diagram
 ├── taxi_EDA.ipynb                      : Quick Data Analysis to understand the dataset
 ├── taxi_database_building.ipynb        : Building a model and dividing a dataset into tables
-├── BigQuery_analysis_PySparkSQL.ipynb  : Data Analysis using PySparkSQL
-├── LICENSE                             : License
-└── README.md                           : Report
+└── taxi_model.png                      : ERD data model diagram
 ```
 
 
@@ -44,3 +45,9 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 * Data Engineering
 * BigQuery
 * Building a Machine Learning model
+
+
+## Final report 
+
+## Taxi Explorary Data Analysis
+
