@@ -26,6 +26,20 @@ This portfolio was created to show my projects in this field. Also here are my a
 ## Portfolio projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+
+<img align="left" width="250" height="170" src="https://c.wallhere.com/photos/6d/c5/taxi_New_York_City_traffic_vehicle_selective_coloring_cityscape_car-1160857.jpg"> **[Taxi analysis](https://github.com/densivanov/data_analytics_projects/tree/main/taxi_analysis)**
+
+**Skills:** data cleaning, data engineering, data analysis, statistics, data visualization, machine learning, git
+
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn.
+
+
+**Results:** Conducted a full analysis of the taxi operation, built an ML model, and also made the final report
+
+
+
+
 <img align="left" width="250" height="170" src="https://backpackerpanda.com/wp-content/uploads/2022/06/1551969983_42850.jpg"> **[Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project)**
 
 **Skills:** data cleaning, data analysis, statistics, data visualization, machine learning
