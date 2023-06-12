@@ -4,7 +4,11 @@
 - [Introduction](#introduction)
 - [Project organization](#project-organization)
 - [Skills and technologies](#skills-and-technologies)
-
+- [Final report](#final-report)
+- [Taxi Explorary Data Analysis](#taxi-explorary-data-analysis)
+- [Taxi database model](#taxi-database-model)
+- [Big query analysis](#big-query-analysis)
+- [Machine Learning model](#machine-learning-model)
 
 ## Introduction
 [taxi](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) <- link to the information web page
@@ -88,4 +92,108 @@ On this chart, we can see the zones where the biggest tips were
 
 
 **You can read more about the analysis [here](https://github.com/densivanov/data_analytics_projects/blob/main/taxi_analysis/taxi_EDA.ipynb)**
+
+
+## Taxi database model
+
+This part of my analysis is aimed at building a separate database for taxis, in this topic there will be concepts such as primary key, foreign key, as well as everything related to databases
+
+
+
+I would like to draw attention to a function that facilitates the initial analysis of the data. It is shown in the picture
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/69011dc6-8dd1-4b4f-858c-e86cde6c9c83)
+
+It greatly facilitates the initial data analysis, helps to identify outliers and missing data, and the documentation is also shown in the picture
+
+
+Now we will present the splitting of a large table into subtables for the correct design of the database. In the end, we will get such an ERD diagram
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/c5d132ee-5d2e-4f0d-a3f2-e670c8ba4f95)
+
+
+## Big query analysis
+
+Since we are working with a large set of data that is presented as a file.parquet we will use PySparkSQL for large data analysis, with the help of which we will draw conclusions and get the information we are interested in
+
+
+First we will get our data and upload it to the server
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/129afc2f-46ce-4c6c-97c1-94c99892cf2f)
+
+
+Having created an image of our table through PySparkSQL, we can now write SQL queries. Let's get down to the analysis
+
+The first thing I would like to know is the basic information on the distance of a taxi ride
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/4195ac98-f3a0-4069-8fcc-6d4e6f7b3235)
+
+
+Conclusions:
+* The average trip is 3.4 miles
+* The maximum trip is 62 thousand miles, which is probably an outlier and not real information
+
+
+
+I think it would be quite interesting for us to know the average duration of the trip in minutes during the day. As we can see, the biggest average is to continue at 14-16 o'clock in the afternoon
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/5909e690-beb3-4233-8425-c112c11e9617)
+
+
+
+The graph  shows the average number of passengers and the maximum number of passengers by time
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/82fbfc2d-1755-47a7-8e7b-2c3e1ee750b2)
+
+
+The full version of the analysis can be found [here](https://github.com/densivanov/data_analytics_projects/blob/main/taxi_analysis/BigQuery_analysis_PySparkSQL.ipynb)
+
+
+
+## Machine Learning model
+
+
+
+
+Conducting the initial analysis, I found logical dependencies with ML, we can build a simple model that will predict the final price
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/fad9fa2f-598f-47e4-ba0e-36bd00c3ecbe)
+
+
+
+
+As we can see, we have a linear dependence, which allows us to use a linear regression model, let's do it
+
+
+
+First I'll import the ML libraries and split our dataset into X and target(y)
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/ca293cc1-1318-4bd2-9a8d-0eecc9bc67ce)
+
+
+
+Then we will train the model on our data
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/7d9bef8c-20aa-4ca7-9233-f02243655ead)
+
+
+
+And in the end, we will evaluate the performance of our model using indicators
+
+
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/d0d57590-586e-4e11-8faa-84eb4add240d)
 
