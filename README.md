@@ -18,6 +18,7 @@ This portfolio was created to show my projects in this field. Also here are my a
 - [Micro Projects](#micro-projects)
 	+ [Recommendation systems](#recommendation-systems)
 	+ [Challenges](#challenges)	
+	+ [ML projects](#ml-projects)
 - [Core Competencies](#core-competencies)
 - [Certificates and courses](#certificates-and-courses)
 
