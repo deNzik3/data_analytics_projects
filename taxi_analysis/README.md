@@ -49,6 +49,11 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 
 ## Final report 
+This report shows the main indicators of taxi operation. We can also draw basic conclusions about the relationship between some variables. For example, we see the dependence of the average check on the type of payment and by month. We also see that it is the payment by bank card that is most popular, which is quite logical. 
+
+<img align="left" width="1200" height="600" src="https://github.com/densivanov/data_analytics_projects/blob/main/taxi_analysis/final_report.jpg">
+
+
 
 ## Taxi Explorary Data Analysis
 
