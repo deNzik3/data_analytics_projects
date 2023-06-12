@@ -73,3 +73,19 @@ Conclusions from the graph above:
 * We have one value that is not like the others, where the number of passengers is > 35
 * Overall, this is an uptrend
 
+**The next important graph is the graph of the dependence of the number of landings and the time of day**
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/cae6a85d-6375-48e8-8ed2-4931309199ef)
+
+From above graph, we can say that:
+* The least number of passengers in the interval from morning at 4-5 o'clock
+* The peak of the schedule falls at 18 o'clock, when everyone goes from work
+* Then, after the peak, the chart does not hold, but gradually goes down
+
+**Schedule with the place and the biggest tips**
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/a9804663-b1b7-4705-be15-26e25f815c34)
+
+On this chart, we can see the zones where the biggest tips were
+
+
+**You can read more about the analysis [here](https://github.com/densivanov/data_analytics_projects/blob/main/taxi_analysis/taxi_EDA.ipynb)**
+
