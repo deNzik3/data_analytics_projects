@@ -28,6 +28,7 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 ├── ML_building_taxi.ipynb              : The way to create an ML model
 ├── README.md                           : Project description
 ├── data_documentation.pdf              : Documentation for the dataset
+├── final_report.jpg                    : Final report about project
 ├── linear_regression_model.pkl         : Linear Regression model
 ├── taxi_model.png                      : ERD data model diagram
 ├── taxi_EDA.ipynb                      : Quick Data Analysis to understand the dataset
