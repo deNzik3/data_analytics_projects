@@ -49,11 +49,27 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 
 ## Final report 
+
+
 This report shows the main indicators of taxi operation. We can also draw basic conclusions about the relationship between some variables. For example, we see the dependence of the average check on the type of payment and by month. We also see that it is the payment by bank card that is most popular, which is quite logical. 
 
 <img align="left" width="1200" height="600" src="https://github.com/densivanov/data_analytics_projects/blob/main/taxi_analysis/final_report.jpg">
 
 
 
+
 ## Taxi Explorary Data Analysis
+
+
+Conducting this analysis, my main goal was to understand the data with which I will work. I also wanted, for greater clarity, to visualize all this and find outliers, understand why they exist, and also build a foundation for a future ML model.
+
+**First of all, I want to draw your attention to the schedule of the number of passengers over the entire time interval that we have.**
+
+![image](https://github.com/densivanov/data_analytics_projects/assets/94192418/1dd879bd-4a8e-4a98-806b-5d8f659e8248)
+
+Conclusions from the graph above:
+* We have a small drawdown in terms of quantity
+* We have no negative outliers
+* We have one value that is not like the others, where the number of passengers is > 35
+* Overall, this is an uptrend
 
