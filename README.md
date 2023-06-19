@@ -73,7 +73,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Core Competencies
-- **Methodologies:** Machine Learning, Statistics, EDA, visualizations, A/B Testing, Big Data Analytics
+- **Methodologies:** Machine Learning, Statistics, EDA, Visualizations, A/B Testing, Big Data Analytics
 - **Programming:** Python, SQL, Power Query
 - **Data Workflow:** Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, Scikit-Learn
 - **Deployment:** Git, Docker
