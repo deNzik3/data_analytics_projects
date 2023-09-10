@@ -39,17 +39,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Did a full analysis of the taxi operation, built an ML model, and also made the final report
 
 
-#
-
-<img align="left" width="250" height="170" src="https://i.pinimg.com/originals/4d/9d/db/4d9ddb10038ca5ac58aaeae58dbc883b.jpg"> **[Laptop prices prediction](https://github.com/densivanov/data_analytics_projects/tree/main/laptop_prediction_project)**
-
-**Skills:** data cleaning, EDA, statistics, machine learning, data visualization, linear regression, rigde regression, lasso regression, KNN, decision tree
-
-
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn
-
-
-**Results:** Based on a large amount of data, I made an EDA, built an ML model and created a visualization of the use of the model
 
 
 #
