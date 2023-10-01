@@ -40,7 +40,6 @@ This portfolio was created to show my projects in this field. Also here are my a
 - [Micro Projects](#micro-projects)
 	+ [Recommendation systems](#recommendation-systems)
 	+ [ML projects](#ml-projects)
-	+ [Challenges](#challenges)	
 - [Core Competencies](#core-competencies)
 - [Certificates and courses](#certificates-and-courses)
 
@@ -74,9 +73,6 @@ In this section I will list data analytics projects briefly describing the techn
 ### ML projects
 * [Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project): after analyzing the data, I built a visualization, as well as also built an ML model for predicting temperature based on data
 * [Predicting the number of Olympic medals](https://github.com/densivanov/data_analytics_projects/tree/main/olympic_pred_project): the project shows the ability to work with ML models and an understanding of how models work
-### Challenges
-* [SQL challenges](https://github.com/deNzik3/SQL): This repository contains codes of online SQL challenges
-* [Data Science challenges](https://github.com/deNzik3/Data-Science): This repository contains codes of online Data Science challenges
 
 
 
