@@ -58,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn.
 
 
-**Results:** Did a full analysis of the taxi operation, built an ML model, and also made the final report
+**Results:** Found patterns and insights in the data, built a linear regression, carefully documented and built a dashboard based on metrics
 
 
 
@@ -69,12 +69,11 @@ In this section I will list data analytics projects briefly describing the techn
 ## Micro Projects
 
 ### Recommendation systems
-* [Movie recommendation system](https://github.com/densivanov/data_analytics_projects/tree/main/movie_rec_project): Created a model that recommends a movie by its title. Collaborative filtering
+* [Movie recommendation system](https://github.com/densivanov/data_analytics_projects/tree/main/movie_rec_project): a model that can offer a movie to a client based on similar movies viewed
 
 ### ML projects
-* [Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project): I made EDA, and also built an ML model for predicting temperature based on data
-* [Predicting the number of Olympic medals](https://github.com/densivanov/data_analytics_projects/tree/main/olympic_pred_project): Thanks to this project, we can now, based on data from previous years, roughly predict the number of medals received at the Olympic Games
-
+* [Weather predictions](https://github.com/densivanov/data_analytics_projects/tree/main/weather_pred_project): after analyzing the data, I built a visualization, as well as also built an ML model for predicting temperature based on data
+* [Predicting the number of Olympic medals](https://github.com/densivanov/data_analytics_projects/tree/main/olympic_pred_project): the project shows the ability to work with ML models and an understanding of how models work
 ### Challenges
 * [SQL challenges](https://github.com/deNzik3/SQL): This repository contains codes of online SQL challenges
 * [Data Science challenges](https://github.com/deNzik3/Data-Science): This repository contains codes of online Data Science challenges
