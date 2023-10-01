@@ -6,6 +6,28 @@ I started doing analytics two years ago, as it has always been very interesting 
 ## Education
 - **2021-2026 National Research Nuclear University MEPhI, Moscow - IFTEB, Economics Security, Expert**
 
+## Job experience
+
+* Junior Product Analyst at [Tinkoff](https://www.tinkoff.ru)
+
+
+
+Worked in the department of Qualified Electronic Signature for Business. I built an analytics system from scratch (before that there was no analyst in the team). Created basic product analytics.
+
+**Technology stack:**
+* structuring data in DWH
+* A/B testing
+* created dashboards based on the main metrics
+* data visualization in Python
+* data analysis
+* A/B test design
+
+**Results:**
+* built basic product analytics
+* launched a new feature using an A/B test
+* built OKR for a year with the help of analytics
+* automated the analytics process
+* made a calculator for the design of A/B tests
 
 
 
@@ -61,12 +83,16 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-## Core Competencies
-- **Methodologies:** Machine Learning, Statistics, EDA, Visualizations, A/B Testing, Big Data Analytics
-- **Programming:** Python, SQL, Power Query
-- **Data Workflow:** Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, Scikit-Learn
-- **Deployment:** Git, Docker
-- **Extra:** Power BI, Excel, A/B testing
+# Hard skills
+
+* **Programming: Python, R, SQL, Power Query**
+
+
+* **Data Workflow: Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, Scikit-Learn**
+
+* **Deployment: Git, Docker**
+
+* **Extra: Power BI, TableAu, Superset, Excel, A/B testing**
 
 
 
