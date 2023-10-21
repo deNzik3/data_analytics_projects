@@ -3,16 +3,20 @@
 ## About
 I started doing analytics two years ago, as it has always been very interesting to work with numbers. Quickly mastered at a good level libraries for data analysis and visualization, as well as for ML. Also was a team leader at a Hackathon from the university. Together with the university team, I conducted marketing research, where I was engaged in visualization. Was engaged in the development of a recommendation system for films. Also, based on the data obtained, I performed binary analysis, created ML models.
 
+
+
+I have experience working with Data Bases: Greenplum/PostgreSQL at a high level. I work with libraries for data analysis in Python. Compiled Database schemas as part of university tasks. I like to participate in ML competitions on Kaggle. I am actively developing in this direction.
+I also have a leadership stronghold, was a team leader at a Hackathon. Familiar with the Agile methodology
+
 ## Education
 - **2021-2026 National Research Nuclear University MEPhI, Moscow - IFTEB, Economics Security, Expert**
 
 ## Job experience
 
-* Junior Product Analyst at [Tinkoff](https://www.tinkoff.ru)
+* Junior Product Analyst at Tinkoff bank
 
 
-
-Worked in the department of Qualified Electronic Signature for Business. I built an analytics system from scratch (before that there was no analyst in the team). Created basic product analytics.
+Worked in the department of Qualified Electronic Signature for Business. I built an analytics system from scratch (before that there was no analyst in the team). Was an analyst in two products at once and was responsible for building an analytical systems and ad-hoc tasks or huge projects, for example building a customer's funnel or just to analyze the customer roadmap and find weak points
 
 **Technology stack:**
 * structuring data in DWH
@@ -20,7 +24,6 @@ Worked in the department of Qualified Electronic Signature for Business. I built
 * created dashboards based on the main metrics
 * data visualization in Python
 * data analysis
-* A/B test design
 
 **Results:**
 * built basic product analytics
