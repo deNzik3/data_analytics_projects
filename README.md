@@ -1,35 +1,34 @@
 # Data Analyst Portfolio - Denis Ivanov
 
 ## About
-I started doing analytics two years ago, as it has always been very interesting to work with numbers. Quickly mastered at a good level libraries for data analysis and visualization, as well as for ML. Also was a team leader at a Hackathon from the university. Together with the university team, I conducted marketing research, where I was engaged in visualization. Was engaged in the development of a recommendation system for films. Also, based on the data obtained, I performed binary analysis, created ML models.
-
+I started doing analytics two years ago, as it has always been very interesting to work with numbers. Quickly mastered at a good level libraries for data analysis and visualization, as well as for ML. Also was a team leader at a Hackathon from the university. Together with the university team, I was doing a marketing research, where I was engaged in visualization. Was engaged in the development of a recommendation system for films, also have a leadership stronghold, was a team leader at a Hackathon.
 
 
 I have experience working with Data Bases: Greenplum/PostgreSQL at a high level. I work with libraries for data analysis in Python. Compiled Database schemas as part of university tasks. I like to participate in ML competitions on Kaggle. I am actively developing in this direction.
-I also have a leadership stronghold, was a team leader at a Hackathon. Familiar with the Agile methodology
+
 
 ## Education
 - **2021-2026 National Research Nuclear University MEPhI, Moscow - IFTEB, Economics Security, Expert**
 
 ## Job experience
 
-* Junior Product Analyst at Tinkoff bank
+* Product Analyst at Tinkoff bank
 
-
-Worked in the department of Qualified Electronic Signature for Business. I built an analytics system from scratch (before that there was no analyst in the team). Was an analyst in two products at once and was responsible for building an analytical systems and ad-hoc tasks or huge projects, for example building a customer's funnel or just to analyze the customer roadmap and find weak points
+Worked in the department of Qualified Electronic Signature for Business and was also an analyst in the team of electronic signature for individuals. I built an analytics system from scratch (before that there was no analyst in the team). Was an analyst in two products at once and was responsible for building an analytical systems and ad-hoc tasks or huge projects, for example building a customer's funnel or analyzing the customer roadmap and find weak points.
 
 **Technology stack:**
 * structuring data in DWH
 * A/B testing
-* created dashboards based on the main metrics
+* dashboards 
 * data visualization in Python
 * data analysis
 
 **Results:**
 * built basic product analytics
 * launched a new feature using an A/B test
-* built OKR for a year with the help of analytics
 * automated the analytics process
+* dashboards with main metrics of two products
+* navigation system for product analytics on Wiki
 * made a calculator for the design of A/B tests
 
 
@@ -83,7 +82,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 # Hard skills
 
-* **Programming: Python, R, SQL, Power Query**
+* **Programming: Python, R, SQL**
 
 
 * **Data Workflow: Pandas, Numpy, Matplotlib, Plotly, Seaborn, PySparkSQL, Scikit-Learn**
