@@ -22,6 +22,7 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * dashboards 
 * data visualization in Python
 * data analysis
+* working with API FNS
 
 **Results:**
 * built basic product analytics
