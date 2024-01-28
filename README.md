@@ -18,8 +18,7 @@ I started doing analytics two years ago, as it has always been very interesting 
 I have experience working with Data Bases: Greenplum/PostgreSQL at a high level. I work with libraries for data analysis in Python. Compiled Database schemas as part of university tasks. I like to participate in ML competitions on Kaggle. I am actively developing in this direction.
 
 
-## Education
-- **2021-2026 National Research Nuclear University MEPhI, Moscow - IFTEB, Economics Security, Expert**
+
 
 ## Job experience
 
