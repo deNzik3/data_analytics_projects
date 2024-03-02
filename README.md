@@ -1,4 +1,4 @@
-# Data Analyst Portfolio - Denis Ivanov
+# Product Analyst Portfolio - Denis Ivanov
 
 ## Table of contents
 - [About](#about)
@@ -22,12 +22,13 @@ I have experience working with Data Bases: Greenplum/PostgreSQL at a high level.
 
 ## Job experience
 
-* Product Analyst at Tinkoff bank
+* Junior Product Analyst at Tinkoff bank 
 
-Worked in the department of Qualified Electronic Signature for Business and was also an analyst in the team of electronic signature for individuals. I built an analytics system from scratch (before that there was no analyst in the team). Was an analyst in two products at once and was responsible for building an analytical systems and ad-hoc tasks or huge projects, for example building a customer's funnel or analyzing the customer roadmap and find weak points.
+Worked in the department of Qualified Electronic Signature for Business and was also an analyst in the team of electronic signature for individuals. I built an analytics system from scratch (before that there was no analyst in the team). Was an analyst in two products at once and was responsible for building an analytical systems and ad-hoc tasks or huge projects, for example building a customer's funnel or analyzing the customer roadmap and find weak points. I built a calculator to help with A/B testing. I used CUPED, Bootstrap, and linearization to test hypotheses
 
 **Technology stack:**
 * structuring data in DWH
+* SuperSet, TableAu
 * A/B testing
 * dashboards 
 * data visualization in Python
@@ -41,9 +42,26 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * dashboards with main metrics of two products
 * navigation system for product analytics on Wiki
 * made a calculator for the design of A/B tests
+* storage system for AB tests
+
+* Middle Product Analyst at MTC Travel
+
+  
+**Technology stack:**
+* Conducting A/B tests using advanced methods
+* Automation of routine analytical tasks
+* Working with many product managers
+* Staff training
+* PySpark
+* Apache Airflow
+* Clickhouse
+* PostgreSQL
+* Agile, Jira, Confluence, Kanban
 
 
+**Results:**
 
+  
 This portfolio was created to show my projects in this field. Also here are my achievements, certificates and it is a way to track my progress in Data Analytics and Data Science-related topics. This portfolio is updated on a regular basis.
 
 
