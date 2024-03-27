@@ -22,7 +22,7 @@ I have experience working with Data Bases: Greenplum/PostgreSQL at a high level.
 
 ## Job experience
 
-### Junior Product Analyst at Tinkoff bank 
+### Product Analyst at Tinkoff bank 
 
 Worked in the department of Qualified Electronic Signature for Business and was also an analyst in the team of electronic signature for individuals. I built an analytics system from scratch (before that there was no analyst in the team). Was an analyst in two products at once and was responsible for building an analytical systems and ad-hoc tasks or huge projects, for example building a customer's funnel or analyzing the customer roadmap and find weak points. I built a calculator to help with A/B testing. I used CUPED, Bootstrap, and linearization to test hypotheses
 
