@@ -44,7 +44,7 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * made a calculator for the design of A/B tests
 * storage system for AB tests
 
-### Middle Product Analyst at MTC Travel
+### Middle+ Product Analyst at MTC Travel
   
 **Technology stack:**
 * Conducting A/B tests using advanced methods
@@ -56,6 +56,8 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * Clickhouse
 * PostgreSQL
 * Agile, Jira, Confluence, Kanban
+
+### Team Lead Product Analyst at Magnit Tech
 
 
 **Results:**
