@@ -33,14 +33,15 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * dashboards 
 * data visualization in Python
 * data analysis
-* working with API FNS
+* product / marketing researches
+* working with API 
 
 **Results:**
 * built basic product analytics
 * launched a new feature using an A/B test
 * automated the analytics process
 * dashboards with main metrics of two products
-* navigation system for product analytics on Wiki
+* navigation system for product analytics on Confluence
 * made a calculator for the design of A/B tests
 * storage system for AB tests
 
