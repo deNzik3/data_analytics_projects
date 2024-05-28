@@ -57,7 +57,6 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * PostgreSQL
 * Agile, Jira, Confluence, Kanban
 
-### Team Lead Product Analyst at Magnit Tech
 
 
 **Results:**
