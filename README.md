@@ -45,7 +45,7 @@ Worked in the department of Qualified Electronic Signature for Business and was 
 * made a calculator for the design of A/B tests
 * storage system for AB tests
 
-### Middle+ Product Analyst at MTC Travel
+### Senior Product Analyst at MTC Travel
   
 **Technology stack:**
 * Conducting A/B tests using advanced methods
